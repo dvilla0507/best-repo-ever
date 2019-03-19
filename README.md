@@ -1,2 +1,2 @@
 # best-repo-ever
-Salesforce is awesomest!
+Salesforce is awesomeness!
